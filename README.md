@@ -4,7 +4,7 @@ Web site to connect students with educational opportunities around the world
 <html lang="fr">
     <head>
         <meta charset="utf-8">
-        <title>LE titre de ma page</title>
+        <title>Emonovo more formelly Marja3</title>
         <p>
             Education and scholorship platform:<br>
             <img src="Marja3.png" alt="page d'acceuil " />
